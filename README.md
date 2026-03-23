@@ -33,3 +33,6 @@ Overall, this task demonstrates the complete workflow of an image classification
 
 output of the task :
 
+<img width="1316" height="792" alt="Image" src="https://github.com/user-attachments/assets/6eea9273-9ee1-4f5d-8a5d-0f42ff0ec838" />
+
+<img width="1493" height="710" alt="Image" src="https://github.com/user-attachments/assets/a4b75cdb-5141-44ed-8c6c-9e624ec60647" />
